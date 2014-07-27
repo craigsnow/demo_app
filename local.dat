@@ -1,0 +1,11 @@
+//
+//			RAILS:demo_app\		l o c a l . d a t
+//
+//
+// Revisions:
+//
+//	26 Jul 14	kCreated by C. A. Snow.
+
+
+
+run		rails server
